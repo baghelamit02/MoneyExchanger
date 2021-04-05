@@ -1,0 +1,10 @@
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\MoneyChangerDAL.dll.config
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\MoneyChangerDAL.dll
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\MoneyChangerDAL.pdb
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\EntityFramework.dll
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\EntityFramework.xml
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\obj\Debug\MoneyChangerDAL.csprojResolveAssemblyReference.cache
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\obj\Debug\MoneyChangerDAL.dll
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\MoneyChangerDAL\obj\Debug\MoneyChangerDAL.pdb

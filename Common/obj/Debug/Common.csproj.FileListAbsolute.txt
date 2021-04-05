@@ -1,0 +1,5 @@
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\Common\bin\Debug\Common.dll
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\Common\bin\Debug\Common.pdb
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\Common\obj\Debug\Common.dll
+c:\users\amit\documents\visual studio 2015\Projects\MoneyChanger\Common\obj\Debug\Common.pdb
