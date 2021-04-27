@@ -13,5 +13,6 @@ namespace Common
         public static string ExchangeDoNotBuyConvertMessage = "We do not buy this currency.";
         public static string ExchangeZeroAmountMessage = "Please enter correct amount";
         public static string ExchangeSellAmountZeroMessage = "sell amount 0";
+        //test
     }
 }
